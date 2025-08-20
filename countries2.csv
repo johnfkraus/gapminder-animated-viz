@@ -1,0 +1,274 @@
+,geo,country,world_4region,world_6region
+0,abkh,Abkhazia,Europe,europe_central_asia
+1,abw,Aruba,Americas,america
+2,afg,Afghanistan,Asia,south_asia
+3,ago,Angola,Africa,sub_saharan_africa
+4,aia,Anguilla,Americas,america
+5,akr_a_dhe,Akrotiri and Dhekelia,Europe,europe_central_asia
+6,ala,Åland,Europe,europe_central_asia
+7,alb,Albania,Europe,europe_central_asia
+8,and,Andorra,Europe,europe_central_asia
+9,ant,Netherlands Antilles,Americas,america
+10,are,United Arab Emirates,Asia,middle_east_north_africa
+11,arg,Argentina,Americas,america
+12,arm,Armenia,Europe,europe_central_asia
+13,asm,American Samoa,Asia,east_asia_pacific
+14,ata,Antarctica,Europe,
+15,atg,Antigua and Barbuda,Americas,america
+16,aus,Australia,Asia,east_asia_pacific
+17,aut,Austria,Europe,europe_central_asia
+18,aze,Azerbaijan,Europe,europe_central_asia
+19,bdi,Burundi,Africa,sub_saharan_africa
+20,bel,Belgium,Europe,europe_central_asia
+21,ben,Benin,Africa,sub_saharan_africa
+22,bfa,Burkina Faso,Africa,sub_saharan_africa
+23,bgd,Bangladesh,Asia,south_asia
+24,bgr,Bulgaria,Europe,europe_central_asia
+25,bhr,Bahrain,Asia,middle_east_north_africa
+26,bhs,Bahamas,Americas,america
+27,bih,Bosnia and Herzegovina,Europe,europe_central_asia
+28,blr,Belarus,Europe,europe_central_asia
+29,blz,Belize,Americas,america
+30,bmu,Bermuda,Americas,america
+31,bol,Bolivia,Americas,america
+32,bouisl,Bouvet Island,Africa,
+33,bra,Brazil,Americas,america
+34,brb,Barbados,Americas,america
+35,brn,Brunei,Asia,east_asia_pacific
+36,btn,Bhutan,Asia,south_asia
+37,bwa,Botswana,Africa,sub_saharan_africa
+38,caf,Central African Republic,Africa,sub_saharan_africa
+39,can,Canada,Americas,america
+40,cck,Cocos Island,Asia,east_asia_pacific
+41,chanisl,Channel Islands,Europe,europe_central_asia
+42,che,Switzerland,Europe,europe_central_asia
+43,cheslo,Czechoslovakia,Europe,europe_central_asia
+44,chl,Chile,Americas,america
+45,chn,China,Asia,east_asia_pacific
+46,civ,Cote d'Ivoire,Africa,sub_saharan_africa
+47,cmr,Cameroon,Africa,sub_saharan_africa
+48,cod,"Congo, Dem. Rep.",Africa,sub_saharan_africa
+49,cog,"Congo, Rep.",Africa,sub_saharan_africa
+50,cok,Cook Is,Asia,east_asia_pacific
+51,col,Colombia,Americas,america
+52,com,Comoros,Africa,sub_saharan_africa
+53,cpv,Cape Verde,Africa,sub_saharan_africa
+54,cri,Costa Rica,Americas,america
+55,cub,Cuba,Americas,america
+56,cxr,Christmas Island,Asia,east_asia_pacific
+57,cym,Cayman Islands,Americas,america
+58,cyp,Cyprus,Europe,europe_central_asia
+59,cyp_nor,Northern Cyprus,Europe,europe_central_asia
+60,cze,Czech Republic,Europe,europe_central_asia
+61,deu,Germany,Europe,europe_central_asia
+62,deu_east,East Germany,Europe,europe_central_asia
+63,deu_west,West Germany,Europe,europe_central_asia
+64,dji,Djibouti,Africa,middle_east_north_africa
+65,dma,Dominica,Americas,america
+66,dnk,Denmark,Europe,europe_central_asia
+67,dom,Dominican Republic,Americas,america
+68,dza,Algeria,Africa,middle_east_north_africa
+69,ecu,Ecuador,Americas,america
+70,egy,Egypt,Africa,middle_east_north_africa
+71,eri,Eritrea,Africa,sub_saharan_africa
+72,eri_a_eth,Eritrea and Ethiopia,Africa,sub_saharan_africa
+73,esh,Western Sahara,Africa,middle_east_north_africa
+74,esp,Spain,Europe,europe_central_asia
+75,est,Estonia,Europe,europe_central_asia
+76,eth,Ethiopia,Africa,sub_saharan_africa
+77,fin,Finland,Europe,europe_central_asia
+78,fji,Fiji,Asia,east_asia_pacific
+79,flk,Falkland Is (Malvinas),Americas,america
+80,fra,France,Europe,europe_central_asia
+81,fra_antarc,French Southern and Antarctic Lands,,
+82,fra_clipperton,Clipperton,,
+83,fro,Faeroe Islands,Europe,europe_central_asia
+84,fsm,"Micronesia, Fed. Sts.",Asia,east_asia_pacific
+85,gab,Gabon,Africa,sub_saharan_africa
+86,gbg,Guernsey,Europe,europe_central_asia
+87,gbm,Isle of Man,Europe,europe_central_asia
+88,gbr,United Kingdom,Europe,europe_central_asia
+89,geo,Georgia,Europe,europe_central_asia
+90,gha,Ghana,Africa,sub_saharan_africa
+91,gib,Gibraltar,Europe,europe_central_asia
+92,gin,Guinea,Africa,sub_saharan_africa
+93,glp,Guadeloupe,Americas,america
+94,gmb,Gambia,Africa,sub_saharan_africa
+95,gnb,Guinea-Bissau,Africa,sub_saharan_africa
+96,gnq,Equatorial Guinea,Africa,sub_saharan_africa
+97,grc,Greece,Europe,europe_central_asia
+98,grd,Grenada,Americas,america
+99,grl,Greenland,Europe,europe_central_asia
+100,gtm,Guatemala,Americas,america
+101,guf,French Guiana,Americas,america
+102,gum,Guam,Asia,east_asia_pacific
+103,guy,Guyana,Americas,america
+104,heard_a_mcd,Heard and McDonald Islands,Asia,
+105,hkg,"Hong Kong, China",Asia,east_asia_pacific
+106,hnd,Honduras,Americas,america
+107,hos,Holy See,Europe,europe_central_asia
+108,hrv,Croatia,Europe,europe_central_asia
+109,hti,Haiti,Americas,america
+110,hun,Hungary,Europe,europe_central_asia
+111,idn,Indonesia,Asia,east_asia_pacific
+112,ind,India,Asia,south_asia
+113,iot,British Indian Ocean Territory,Asia,
+114,irl,Ireland,Europe,europe_central_asia
+115,irn,Iran,Asia,middle_east_north_africa
+116,irq,Iraq,Asia,middle_east_north_africa
+117,isl,Iceland,Europe,europe_central_asia
+118,isr,Israel,Asia,middle_east_north_africa
+119,ita,Italy,Europe,europe_central_asia
+120,jam,Jamaica,Americas,america
+121,jey,Jersey,Europe,europe_central_asia
+122,jor,Jordan,Asia,middle_east_north_africa
+123,jpn,Japan,Asia,east_asia_pacific
+124,kaz,Kazakhstan,Asia,europe_central_asia
+125,ken,Kenya,Africa,sub_saharan_africa
+126,kgz,Kyrgyz Republic,Asia,europe_central_asia
+127,khm,Cambodia,Asia,east_asia_pacific
+128,kir,Kiribati,Asia,east_asia_pacific
+129,kna,St. Kitts and Nevis,Americas,america
+130,kor,South Korea,Asia,east_asia_pacific
+131,korea_union,United Korea (former),Asia,
+132,kos,Kosovo,Europe,europe_central_asia
+133,kwt,Kuwait,Asia,middle_east_north_africa
+134,lao,Lao,Asia,east_asia_pacific
+135,lbn,Lebanon,Asia,middle_east_north_africa
+136,lbr,Liberia,Africa,sub_saharan_africa
+137,lby,Libya,Africa,middle_east_north_africa
+138,lca,St. Lucia,Americas,america
+139,lie,Liechtenstein,Europe,europe_central_asia
+140,lka,Sri Lanka,Asia,south_asia
+141,lso,Lesotho,Africa,sub_saharan_africa
+142,ltu,Lithuania,Europe,europe_central_asia
+143,lux,Luxembourg,Europe,europe_central_asia
+144,lva,Latvia,Europe,europe_central_asia
+145,mac,"Macao, China",Asia,east_asia_pacific
+146,maf,St. Martin (French part),Americas,
+147,mar,Morocco,Africa,middle_east_north_africa
+148,mco,Monaco,Europe,europe_central_asia
+149,mda,Moldova,Europe,europe_central_asia
+150,mdg,Madagascar,Africa,sub_saharan_africa
+151,mdv,Maldives,Asia,south_asia
+152,mex,Mexico,Americas,america
+153,mhl,Marshall Islands,Asia,east_asia_pacific
+154,mkd,North Macedonia,Europe,europe_central_asia
+155,mli,Mali,Africa,sub_saharan_africa
+156,mlt,Malta,Europe,europe_central_asia
+157,mmr,Myanmar,Asia,east_asia_pacific
+158,mne,Montenegro,Europe,europe_central_asia
+159,mng,Mongolia,Asia,east_asia_pacific
+160,mnp,Northern Mariana Islands,Asia,east_asia_pacific
+161,moz,Mozambique,Africa,sub_saharan_africa
+162,mrt,Mauritania,Africa,sub_saharan_africa
+163,msr,Montserrat,Americas,america
+164,mtq,Martinique,Americas,america
+165,mus,Mauritius,Africa,sub_saharan_africa
+166,mwi,Malawi,Africa,sub_saharan_africa
+167,mys,Malaysia,Asia,east_asia_pacific
+168,myt,Mayotte,Africa,sub_saharan_africa
+169,nam,Namibia,Africa,sub_saharan_africa
+170,ncl,New Caledonia,Asia,east_asia_pacific
+171,ner,Niger,Africa,sub_saharan_africa
+172,nfk,Norfolk Island,Asia,east_asia_pacific
+173,nga,Nigeria,Africa,sub_saharan_africa
+174,ngokar,Ngorno-Karabakh,Europe,europe_central_asia
+175,nic,Nicaragua,Americas,america
+176,niu,Niue,Asia,east_asia_pacific
+177,nld,Netherlands,Europe,europe_central_asia
+178,nld_curacao,Curaçao,Americas,america
+179,nor,Norway,Europe,europe_central_asia
+180,npl,Nepal,Asia,south_asia
+181,nru,Nauru,Asia,east_asia_pacific
+182,nzl,New Zealand,Asia,east_asia_pacific
+183,omn,Oman,Asia,middle_east_north_africa
+184,pak,Pakistan,Asia,south_asia
+185,pan,Panama,Americas,america
+186,pcn,Pitcairn,Asia,east_asia_pacific
+187,per,Peru,Americas,america
+188,phl,Philippines,Asia,east_asia_pacific
+189,plw,Palau,Asia,east_asia_pacific
+190,png,Papua New Guinea,Asia,east_asia_pacific
+191,pol,Poland,Europe,europe_central_asia
+192,pri,Puerto Rico,Americas,america
+193,prk,North Korea,Asia,east_asia_pacific
+194,prt,Portugal,Europe,europe_central_asia
+195,pry,Paraguay,Americas,america
+196,pse,Palestine,Asia,middle_east_north_africa
+197,pse_gaza,Gaza Strip,Asia,
+198,pse_west_bank,West Bank,Asia,
+199,pyf,French Polynesia,Asia,east_asia_pacific
+200,qat,Qatar,Asia,middle_east_north_africa
+201,reu,Reunion,Africa,sub_saharan_africa
+202,rou,Romania,Europe,europe_central_asia
+203,rus,Russia,Europe,europe_central_asia
+204,rwa,Rwanda,Africa,sub_saharan_africa
+205,sau,Saudi Arabia,Asia,middle_east_north_africa
+206,scg,Serbia and Montenegro,Europe,europe_central_asia
+207,scg_ex_kos,Serbia excluding Kosovo,Europe,europe_central_asia
+208,sdn,Sudan,Africa,sub_saharan_africa
+209,sen,Senegal,Africa,sub_saharan_africa
+210,sgero_a_ssandw,South Georgia and the South Sandwich Islands,Americas,
+211,sgp,Singapore,Asia,east_asia_pacific
+212,shn,St. Helena,Africa,sub_saharan_africa
+213,sjm,Svalbard,Europe,europe_central_asia
+214,slb,Solomon Islands,Asia,east_asia_pacific
+215,sle,Sierra Leone,Africa,sub_saharan_africa
+216,slv,El Salvador,Americas,america
+217,smr,San Marino,Europe,europe_central_asia
+218,som,Somalia,Africa,sub_saharan_africa
+219,som_somland,Somaliland,Africa,sub_saharan_africa
+220,sosset,South Ossetia,Europe,europe_central_asia
+221,spm,St.-Pierre-et-Miquelon,Americas,america
+222,srb,Serbia,Europe,europe_central_asia
+223,ssd,South Sudan,Africa,sub_saharan_africa
+224,stbar,St. Barthélemy,Americas,america
+225,stmar,St. Martin,Americas,america
+226,stp,Sao Tome and Principe,Africa,sub_saharan_africa
+227,sur,Suriname,Americas,america
+228,svk,Slovak Republic,Europe,europe_central_asia
+229,svn,Slovenia,Europe,europe_central_asia
+230,swe,Sweden,Europe,europe_central_asia
+231,swz,Swaziland,Africa,sub_saharan_africa
+232,sxm,Sint Maarten (Dutch part),Americas,
+233,syc,Seychelles,Africa,sub_saharan_africa
+234,syr,Syria,Asia,middle_east_north_africa
+235,tca,Turks and Caicos Islands,Americas,america
+236,tcd,Chad,Africa,sub_saharan_africa
+237,tgo,Togo,Africa,sub_saharan_africa
+238,tha,Thailand,Asia,east_asia_pacific
+239,tjk,Tajikistan,Asia,europe_central_asia
+240,tkl,Tokelau,Asia,east_asia_pacific
+241,tkm,Turkmenistan,Asia,europe_central_asia
+242,tls,Timor-Leste,Asia,east_asia_pacific
+243,ton,Tonga,Asia,east_asia_pacific
+244,transn,Transnistria,Europe,europe_central_asia
+245,tto,Trinidad and Tobago,Americas,america
+246,tun,Tunisia,Africa,middle_east_north_africa
+247,tur,Turkey,Europe,europe_central_asia
+248,tuv,Tuvalu,Asia,east_asia_pacific
+249,twn,Taiwan,Asia,east_asia_pacific
+250,tza,Tanzania,Africa,sub_saharan_africa
+251,uga,Uganda,Africa,sub_saharan_africa
+252,ukr,Ukraine,Europe,europe_central_asia
+253,ury,Uruguay,Americas,america
+254,usa,United States,Americas,america
+255,usa_minor_out_isl,US Minor Outlying Islands,Americas,
+256,ussr,USSR,Europe,europe_central_asia
+257,uzb,Uzbekistan,Asia,europe_central_asia
+258,vct,St. Vincent and the Grenadines,Americas,america
+259,ven,Venezuela,Americas,america
+260,vgb,British Virgin Islands,Americas,america
+261,vir,Virgin Islands (U.S.),Americas,america
+262,vnm,Vietnam,Asia,east_asia_pacific
+263,vut,Vanuatu,Asia,east_asia_pacific
+264,wlf,Wallis et Futuna,Asia,east_asia_pacific
+265,wsm,Samoa,Asia,east_asia_pacific
+266,yem,Yemen,Asia,middle_east_north_africa
+267,yem_north,North Yemen (former),Asia,middle_east_north_africa
+268,yem_south,South Yemen (former),Asia,middle_east_north_africa
+269,yug,Yugoslavia,Europe,europe_central_asia
+270,zaf,South Africa,Africa,sub_saharan_africa
+271,zmb,Zambia,Africa,sub_saharan_africa
+272,zwe,Zimbabwe,Africa,sub_saharan_africa
